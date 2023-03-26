@@ -1,0 +1,5 @@
+*.OBJ
+*.EXE
+*.MAP
+*.TD
+../Pieces/*.bak
